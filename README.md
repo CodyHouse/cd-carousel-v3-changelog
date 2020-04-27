@@ -1,9 +1,9 @@
-# 📦 Component Name - changelog
+# 📦 Carousel v3 - changelog
 
-Use this repository to report bugs and get notified about changes affecting the Component Name component.
+Use this repository to report bugs and get notified about changes affecting the Carousel v3 component.
 
-- [Live Demo](https://codyhouse.co/ds/components/app/component-name)
-- [Info Page](https://codyhouse.co/ds/components/info/component-name)
+- [Live Demo](https://codyhouse.co/ds/components/app/carousel-v3)
+- [Info Page](https://codyhouse.co/ds/components/info/carousel-v3)
 
 Before reporting a bug, please make sure to check the 'info page' of the component. 
 
